@@ -1,5 +1,5 @@
 ;; Mohammed AlFraihi
-;; B351 - Assignment 6 ==> Minimax-bot
+;; Minimax-bot
 ;;--------------------------------------------
 ;;  in this file, I implement a tronbot that runs the minimax-bot with alpha-beta pruning.
 ;; the function 'utility' defined below is my heuristic function that calculates the value
